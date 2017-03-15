@@ -1,0 +1,248 @@
+D:\Repos\Giger\Giger\bin\Debug\Giger.dll
+D:\Repos\Giger\Giger\bin\Debug\Giger.pdb
+D:\Repos\Giger\Giger\bin\Debug\Giger.Giger.apk
+D:\Repos\Giger\Giger\bin\Debug\Giger.Giger-Signed.apk
+D:\Repos\Giger\Giger\obj\Debug\Giger.dll
+D:\Repos\Giger\Giger\obj\Debug\Giger.pdb
+D:\Repos\Giger\Giger\obj\Debug\android\bin\Giger.Giger.apk
+D:\Repos\Giger\Giger\obj\Debug\res\layout\alogin.xml
+D:\Repos\Giger\Giger\obj\Debug\res\values\strings.xml
+D:\Repos\Giger\Giger\obj\Debug\res\drawable\icon.png
+D:\Repos\Giger\Giger\obj\Debug\R.cs.flag
+D:\Repos\Giger\Giger\obj\Debug\uploadflags.txt
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.Transition.dll
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Repos\Giger\Giger\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Repos\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll
+D:\Repos\Giger\Giger\obj\Debug\res\menu\action_menu.xml
+D:\Repos\Giger\Giger\obj\Debug\res\menu\navmenu.xml
+D:\Repos\Giger\Giger\obj\Debug\res\layout\acontent.xml
+D:\Repos\Giger\Giger\obj\Debug\res\values\styles.xml
+D:\Repos\Giger\Giger\bin\Debug\Giger.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\Java.Interop.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\Mono.Android.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\mscorlib.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\System.Core.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\System.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\System.Net.Http.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\System.Xml.dll.mdb
+D:\Repos\Giger\Giger\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\Giger.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\System.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Repos\Giger\Giger\obj\Debug\Giger.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Giger.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Giger.pdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Giger.Giger.apk
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Giger.Giger-Signed.apk
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\Giger.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\Giger.pdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\bin\Giger.Giger.apk
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\menu\action_menu.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\acontentuser.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\main.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\headerdrawerlayout.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\app_bar.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\menu\navmenu.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\alogin.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\values\strings.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\drawable\icon.png
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\values\styles.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\drawable\imgbg.png
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\drawable\ic_devices_black_24dp.png
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\drawable\ic_home_black_24dp.png
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\drawable\ic_question_answer_black_24dp.png
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\drawable\ic_supervisor_account_black_24dp.png
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\drawable\ic_action_attach.png
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\drawable\ic_action_refresh.png
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\R.cs.flag
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\uploadflags.txt
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\popup_menu.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\first.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\bandedit.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\yrserie.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\yourtvseries.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\season.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\singleseason.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\res\layout\yrraw.xml
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\HtmlAgilityPack.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Giger.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\mscorlib.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\System.Core.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\System.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\System.Xml.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\Giger.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\HtmlAgilityPack.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger\Giger\obj\Debug\Giger.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Giger.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Giger.pdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Giger.Giger.apk
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Giger.Giger-Signed.apk
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\HtmlAgilityPack.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\Giger.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\Giger.pdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\bin\Giger.Giger.apk
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\menu\action_menu.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\acontentuser.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\main.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\headerdrawerlayout.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\app_bar.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\menu\navmenu.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\popup_menu.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\first.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\bandedit.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\yrserie.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\yourtvseries.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\season.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\singleseason.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\yrraw.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\popwindow.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\alogin.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\values\strings.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\icon.png
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\values\styles.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\imgbg.png
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\ic_devices_black_24dp.png
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\ic_home_black_24dp.png
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\ic_question_answer_black_24dp.png
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\ic_supervisor_account_black_24dp.png
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\ic_action_attach.png
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\ic_action_refresh.png
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\ic_menu_btn_add.png
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\R.cs.flag
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\uploadflags.txt
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Refractored.FloatingActionButton.dll
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Refractored.FloatingActionButton.pdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Refractored.FloatingActionButton.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Refractored.FloatingActionButton.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\update.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\layout\popupdelete.xml
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\tlo.jpg
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\res\drawable\magical_tv.jpg
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Giger.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\Giger.csprojResolveAssemblyReference.cache
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\mscorlib.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\System.Core.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\System.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\System.Xml.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\Giger.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\HtmlAgilityPack.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\Refractored.FloatingActionButton.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\obj\Debug\Giger.dll.mdb
+C:\Users\Katarzyna\Desktop\Giger — kopia\Giger\bin\Debug\Giger.dll.mdb
